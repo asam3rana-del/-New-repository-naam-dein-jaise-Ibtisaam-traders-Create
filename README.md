@@ -1,4 +1,4 @@
-# -New-repository-naam-dein-jaise-Ibtisaam-traders-Create# Rana Traders
+Rana Traders
 
 Wholesale Grocery Management Android App
 
